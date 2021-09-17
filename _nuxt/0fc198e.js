@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{244:function(t,n,e){"use strict";e.r(n);var l=e(25),component=Object(l.a)({},(function(){var t=this,n=t.$createElement;return(t._self._c||n)("div",{staticClass:"px-4 flex justify-center text-3xl md:text-5xl"},[t._v("\n  Under Contruction\n")])}),[],!1,null,null,null);n.default=component.exports}}]);

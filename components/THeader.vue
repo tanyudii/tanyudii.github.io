@@ -12,7 +12,7 @@
             </div>
           </div>
         </nuxt-link>
-        <div>
+        <div class="my-auto">
           <nuxt-link to="portfolio" class="font-semibold"
             >My Portfolio</nuxt-link
           >

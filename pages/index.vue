@@ -4,7 +4,7 @@
       class="flex flex-row flex-wrap md:flex-row-reverse items-center space-y-4"
     >
       <div class="mx-auto md:w-4/12 md:p-4">
-        <img src="/illustration.svg" class="w-64 md:w-96" alt="banner" />
+        <img src="/illustration.svg" class="w-64 md:w-96" alt="banner" loading="lazy" />
       </div>
       <div class="md:w-8/12">
         <p class="text-gray-400">Let's introduce my self.</p>
